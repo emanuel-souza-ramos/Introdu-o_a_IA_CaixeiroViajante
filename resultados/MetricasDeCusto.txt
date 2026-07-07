@@ -1,0 +1,39 @@
+Simulated Annealing:
+
+berlin52:
+- Pico de consumo de memória: 2.638 MB
+- Tempo de Execução: 0.543 segundos
+- Melhor distância da solução inicial: 30198.00 
+- Melhor Distância: 17651.00
+
+KroA100:
+- Pico de consumo de memória: 2.769 MB
+- Tempo de Execução: 0.924 segundos
+- Melhor distância da solução inicial: 174953.00
+- Melhor Distância: 65005.00
+
+a280:
+- Pico de consumo de memória: 3.287 MB
+- Tempo de Execução: 1.957 segundos
+- Melhor distância da solução inicial: 33041.00
+- Melhor Distância: 25138.00
+
+Algoritmo Genético:
+
+berlin52:
+- Pico de consumo de memória: 2.824 MB
+- Tempo de Execução: 20.513 segundos
+- Melhor distância da solução inicial: 25637.00
+- Melhor Distância: 8333.00
+
+KroA100:
+- Pico de consumo de memória: 3.990 MB
+- Tempo de Execução: 52.215 segundos
+- Melhor distância da solução inicial: 150215.00
+- Melhor Distância: 25077.00
+
+a280:
+- Pico de consumo de memória: 7.701 MB
+- Tempo de Execução: 145.189 segundos
+- Melhor distância da solução inicial: 31505.00
+- Melhor Distância: 5541.00
